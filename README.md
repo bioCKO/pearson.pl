@@ -16,8 +16,8 @@ Tab delimited text file the holds gene names and expression values across sample
 Example:
 
 gene	sample1	sample2	sample3	sample4	sample5
-a	1	2.1	2.8	4	5.2
-b	1	1.9	3.2	4.1	4.9
+a  1	2.1	2.8	4	5.2
+b  1	1.9	3.2	4.1	4.9
 c	6	2	4	5	8
 
 ==Output==
