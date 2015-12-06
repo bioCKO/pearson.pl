@@ -8,12 +8,17 @@ Calculate the Pearson correlation between all genes in a given matrix
 Usage
 --------
 ```
-pearson.pl <Input File>
+pearson.pl <Input File> <Delimiter (optional)>
 ```
 Input
 --------
 
-Tab delimited text file the holds gene names and expression values across samples.
+Tab delimited text file that holds gene names and expression values across samples.
+
+Optional:
+Delimiter type: tab,space,comma
+
+Defualt is tab, if no value is entered.
 
 Example input:
 
