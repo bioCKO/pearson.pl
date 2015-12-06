@@ -16,6 +16,7 @@ Input
 Tab delimited text file that holds gene names and expression values across samples.
 
 Optional:
+
 Delimiter type: tab,space,comma
 
 Defualt is tab, if no value is entered.
